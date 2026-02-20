@@ -1,0 +1,98 @@
+# ===================
+# Python / Backend
+# ===================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type checking
+.mypy_cache/
+
+# ===================
+# Web / Frontend
+# ===================
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.parcel-cache/
+
+# ===================
+# Mobile (future)
+# ===================
+
+# React Native / Flutter
+*.lock
+!uv.lock
+.expo/
+ios/Pods/
+*.apk
+*.ipa
+
+# ===================
+# General
+# ===================
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/settings.json
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.pem
+*.key
